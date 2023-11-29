@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Plataforma voto electrónico educativa(MODIFICO ESTO PARA REPASO)
 =====================================
+=======
+Plataforma voto electrónico educativa
+========================================
+>>>>>>> 609841c (Cambios en rama main)
 
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
