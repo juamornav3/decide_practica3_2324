@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Plataforma voto electrónico educativa(MODIFICO ESTO PARA REPASO)
+Plataforma voto electrónico educativa(MODIFICO ESTO PARA REPASO 3)
 =====================================
 =======
 Plataforma voto electrónico educativa
