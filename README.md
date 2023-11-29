@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-Plataforma voto electrónico educativa(MODIFICO ESTO PewARA REPASO 3)
+Plataforma voto electrónico educativa(MODIFICO ESTO PewARA REdcdPASO 3)
 =======
 Plataforma voto electrónico educativa
 >>>>>>> parent of 5576a44 (Probando ejercicio2 de práctica 3)
