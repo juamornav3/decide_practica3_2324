@@ -1,4 +1,4 @@
-Plataforma voto electrónico educativa
+Plataforma voto electrónico educativa(MODIFICO ESTO PARA REPASO)
 =====================================
 
 El objetivo de este proyecto es implementar una plataforma de voto
