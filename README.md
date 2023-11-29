@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Plataforma voto electrónico educativa(MODIFICO ESTO PARA REPASO 3)
+=======
+Plataforma voto electrónico educativa
+>>>>>>> parent of 5576a44 (Probando ejercicio2 de práctica 3)
 =====================================
 =======
 Plataforma voto electrónico educativa
